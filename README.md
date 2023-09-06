@@ -59,3 +59,5 @@ Using the Bluetooth as Audio Card:
 This specific board from DF Robot can also be used as a digital sound card for PC. Just solder the pads given in the bottom solder layer of PCB. And connecting it via USB micro, PC detect the hardware as sound card. Now you can use this sound card to connect any headphone/earphone to any USB compatible system.
 
 Like in most of the Raspberry Pi boards the analog audio output is not supported by the hardware. But connecting it to USB we can digitally record audio. Try JLCPCB now, Sign-up using this link and get free PCB coupons worth $54 (Applicable to new users only).
+
+https://jlcpcb.com/?from=SSA
