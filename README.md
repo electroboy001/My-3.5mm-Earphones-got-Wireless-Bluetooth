@@ -39,7 +39,7 @@ Earphones or headphones
 
 Custom PCB
 
-https://jlcpcb.com/?from=SSA
+https://jlcpcb.com/?from=SAM
 
 Problems with this Bluetooth:
 
@@ -60,7 +60,7 @@ In the next tutorial, I may reverse engineer this board and make a suitable conn
 <img width="893" alt="ice_screenshot_20230221-050102" src="https://github.com/electroboy001/My-3.5mm-Earphones-got-Wireless-Bluetooth/assets/97245507/d31d4c84-a8a4-43d5-afa8-c2bdf02741de">
 
 JLCPCB is the most reliable PCB manufacturer from CHINA, get your 5pcs 2layer PCB just in $2. JLCPCB provides the huge range of services including stencil, PCBA, SMT assembly, 3D printing and Metal CNC.
-https://jlcpcb.com/?from=SSA
+https://jlcpcb.com/?from=SAM
 
 Battery consumption:
 
@@ -80,4 +80,4 @@ This specific board from DF Robot can also be used as a digital sound card for P
 
 Like in most of the Raspberry Pi boards the analog audio output is not supported by the hardware. But connecting it to USB we can digitally record audio. Try JLCPCB now, Sign-up using this link and get free PCB coupons worth $54 (Applicable to new users only).
 
-https://jlcpcb.com/?from=SSA
+https://jlcpcb.com/?from=SAM
